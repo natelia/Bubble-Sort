@@ -2,9 +2,7 @@
 A simple implementation of the Bubble Sort algorithm in Ruby. Bubble Sort is a straightforward sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted.
 
 ## Key Features
-1. **Frozen String Literal Comment** :
-The comment `# frozen_string_literal: true` at the top of the file ensures that all string literals in the file are immutable. This can improve performance and prevent unwanted modifications to string literals.
-2. **Bubble Sort Implementation**:
+1. **Bubble Sort Implementation**:
 The bubble_sort method takes an array as input and sorts it using the Bubble Sort algorithm.
 The method iterates through the array, compares adjacent elements, and swaps them if they are in the wrong order.
 
